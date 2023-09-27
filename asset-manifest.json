@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.dcdb8f3a.css",
+    "main.js": "/portfolio/static/js/main.febb665e.js",
+    "static/media/portfolio.png": "/portfolio/static/media/portfolio.ee4f60a7896d491888f2.png",
+    "static/media/DiceGame.png": "/portfolio/static/media/DiceGame.f935339b4ff7bef513ae.png",
+    "static/media/ReactIcon.png": "/portfolio/static/media/ReactIcon.09ea234359983a3c8cc1.png",
+    "static/media/python.png": "/portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/NotesTakingApp.png": "/portfolio/static/media/NotesTakingApp.9a79127b8845f243e8d9.png",
+    "static/media/letter-c.png": "/portfolio/static/media/letter-c.ca323b325816f40cf155.png",
+    "static/media/c++.png": "/portfolio/static/media/c++.24a8f93854ab092f17a7.png",
+    "static/media/SimonGame.png": "/portfolio/static/media/SimonGame.6008dc8d68dde2809857.png",
+    "static/media/css.png": "/portfolio/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/MyShop.png": "/portfolio/static/media/MyShop.783c5d49fabb043505c9.png",
+    "static/media/js.png": "/portfolio/static/media/js.3dfb665e058d08c99f28.png",
+    "index.html": "/portfolio/index.html",
+    "main.dcdb8f3a.css.map": "/portfolio/static/css/main.dcdb8f3a.css.map",
+    "main.febb665e.js.map": "/portfolio/static/js/main.febb665e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcdb8f3a.css",
+    "static/js/main.febb665e.js"
+  ]
+}
